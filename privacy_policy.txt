@@ -12,7 +12,7 @@ disclosure of Personal Information if anyone decided to use this Service.
 
 1. Overview
 
-The app uses advertising. The app uses third party
+The app uses third party
 libraries for advertising which may collect and share personal information with third
 parties.
 
