@@ -2,7 +2,9 @@ Privacy Policy
 
 
 Milutin ("developer") built the EVRAZ Wallet. This SERVICE
-("app") is provided by at no cost and is intended for use as it is.
+("app") is provided by at no cost and is intended for use as it is. Our application 
+does not contain or process personal or confidential user data. Our application 
+does not collect or transmit personal or confidential user data not related to functionality.
 
 This privacy policy is used to inform you regarding policies with the collection, use, and 
 disclosure of Personal Information if anyone decided to use this Service.
